@@ -1,6 +1,6 @@
-# A grammar of Hewramî % \subtitle{Add subtitle here if it exists}
+# A grammar of Hewramî
 ## Publication Info
-- Authors: Masoud Mohammadirad %use this field for editors as well
+- Authors: Masoud Mohammadirad 
 - Publication Date: not yet published
 - Series: cogl
 ## Description
